@@ -2,6 +2,10 @@
 [en] here is a simple esx garage which works really well if there are any problems nii report it to me.
 [fi] tässä on simppeli esx autotalli mikä toimii todella hyvin jos tulee ongelmia nii ilmoita siitä minulle.
 
+this garage is taken from esx legacy
+
+tämä autotalli on otettu esx legacystä
+
 [en]
 
 1. CD in your resources/[esx] folder
